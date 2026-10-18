@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Christian Adusei 👋
 
-<!--
-**ChristianAdusei/ChristianAdusei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Junior studying **Business Analytics and AI** at the University of Texas at Dallas (Naveen Jindal School of Management). I develop data-driven web applications, scalable database systems, and AI-enabled workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, SQL, JavaScript/TypeScript, Java, C++
+- **Frameworks & Libraries:** Next.js, React, Node.js, Mongoose, Tailwind CSS
+- **Data & Analytics:** MongoDB Atlas, Tableau, Microsoft Excel, Microsoft Visio
+- **AI & Developer Tooling:** Google Gemini API, Cursor AI, Git/GitHub, REST APIs
+
+---
+
+### 🚀 Featured Projects
+
+- **[Northline Daily](#)** — Full-stack automated tech news intelligence platform built with Next.js, MongoDB Atlas, and the Google Gemini API for autonomous summarization and article Q&A.
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [www.linkedin.com/in/christianadusei](https://linkedin.com)
+- **Location:** Richardson, TX
+
+
