@@ -15,7 +15,7 @@ Undergraduate Junior studying **Business Analytics and AI** at the University of
 
 ### 🚀 Featured Projects
 
-- **[Northline Daily](#)** — Full-stack automated tech news intelligence platform built with Next.js, MongoDB Atlas, and the Google Gemini API for autonomous summarization and article Q&A.
+- **[Northline Daily](https://github.com/ChristianAdusei/northline-daily)** — Full-stack automated tech news intelligence platform built with Next.js, MongoDB Atlas, and the Google Gemini API for autonomous summarization and article Q&A.
 
 ---
 
