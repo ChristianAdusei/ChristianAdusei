@@ -21,7 +21,7 @@ Undergraduate Junior studying **Business Analytics and AI** at the University of
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [www.linkedin.com/in/christianadusei](https://linkedin.com)
+- **LinkedIn:** [Christian Adusei](https://www.linkedin.com/in/christianadusei)
 - **Location:** Richardson, TX
 
 
