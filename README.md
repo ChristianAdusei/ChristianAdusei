@@ -21,6 +21,7 @@ Undergraduate Junior studying **Business Analytics and AI** at the University of
 
 ### 📫 Connect With Me
 
+- **Email:** [ckadusei2006@gmail.com](ckadusei2006@gmail.com)
 - **LinkedIn:** [Christian Adusei](https://www.linkedin.com/in/christianadusei)
 - **Location:** Richardson, TX
 
